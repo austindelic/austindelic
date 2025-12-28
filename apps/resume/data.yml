@@ -1,0 +1,257 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/jskherman/imprecv/main/cv.typ.schema.json
+
+personal:
+  name: Austin Scott Delic
+  email: austin@austindelic.com
+  phone: (+61) 402 919 111
+  url: https://austindelic.com
+  titles:
+    - Software Engineer
+    - Student
+  location:
+    city: Perth
+    country: ""
+    region: Western Australia
+  profiles:
+    - network: LinkedIn
+      username: austindelic
+      url: https://linkedin.com/in/austindelic
+    - network: GitHub
+      username: austindelic
+      url: https://github.com/austindelic
+
+work:
+  - organization: Independent Contracting
+    location: Perth, Australia | Remote
+    positions:
+      - position: Contract Software Developer (Full Stack)
+        startDate: 2025-10-01
+        endDate: present
+        highlights:
+          - Designed, built, and maintained full-stack software solutions serving hundreds of active users across Australia’s eastern states.
+          - Delivered production-grade systems across frontend, backend, and database layers.
+          - Worked directly with clients to scope requirements, iterate on features, and deploy updates to live environments.
+          - Managed deployments, reliability, and ongoing improvements for actively used applications.
+  - organization: Aquinas College WA
+    url: https://www.aquinas.wa.edu.au
+    location: Perth, Western Australia
+    positions:
+      - position: Casual ICT Helpdesk & AV Assistant
+        startDate: 2025-03-01
+        endDate: present
+        highlights:
+          - Provided ICT and audiovisual support to staff and students.
+          - Assisted with troubleshooting hardware, software, and AV systems.
+          - Supported day-to-day technology operations across the campus.
+
+  - organization: Lightbulb Skills
+    url: https://www.lightbulbskills.com.au
+    location: Perth, Western Australia
+    positions:
+      - position: Junior Software Developer
+        startDate: 2024-10-01
+        endDate: 2025-12-23
+        highlights:
+          - Developed and maintained a full-stack CRM system using Next.js, React, and Supabase.
+          - Streamlined customer relationship management processes for the organisation.
+          - Applied modern web development practices to support a community-focused business.
+  - organization: Global College Australasia
+    url: https://globalcollege.edu.au
+    location: Perth, Western Australia
+    positions:
+      - position: Information Technology Intern
+        startDate: 2023-12-01
+        endDate: 2024-04-01
+        highlights:
+          - Provided IT helpdesk support to staff and students.
+          - Troubleshot hardware and software issues across multiple systems.
+          - Assisted with device management, system setup, and software updates.
+          - Strengthened communication skills by supporting users with varied technical ability.
+          - Gained practical experience in IT support processes and system diagnostics.
+
+education:
+  - institution: Curtin University
+    url: https://www.curtin.edu.au
+    area: Computer Science & Mechatronics Engineering
+    studyType: Bachelor of Science & Engineering
+    startDate: 2025-02-01
+    endDate: 2030-10-01
+    location: Perth, Western Australia
+    honors:
+      - 7.5 / 10 GPA
+      - Dean's List
+    courses:
+    highlights:
+
+  - institution: Aquinas College
+    url: https://www.aquinas.wa.edu.au
+    studyType: "Diploma"
+    startDate: 2016-02-01
+    endDate: 2024-10-01
+    location: Perth, Western Australia
+    honors:
+      - 89.5 ATAR
+    highlights:
+      - Competitive Rower
+      - Valedictory Dinner Speech ‘Day Boy’ representative
+affiliations:
+  - organization: Lyrathon
+    location: Sydney, New South Wales, Australia
+    position: Participant
+    startDate: 2025-12-12
+    endDate: 2025-12-14
+    highlights:
+      - Built an online take-home assessment platform, similar to LeetCode but designed for take-home tasks.
+      - Implemented recording and monitoring features to help detect cheating and preserve assessment integrity.
+
+  - organization: Hack48
+    location: Sydney, New South Wales, Australia
+    position: Participant
+    startDate: 2025-12-10
+    endDate: 2025-12-12
+    highlights:
+      - Designed and built a system to convert written materials into Braille for visually impaired users.
+      - Focused on accessibility, inclusive design, and rapid prototyping within a 48-hour timeframe.
+
+  - organization: UC Berkeley AI Hackathon
+    location: Berkeley, California, United States
+    position: Participant
+    startDate: 2025-05-21
+    endDate: 2025-05-22
+    highlights:
+      - Developed an educational app teaching social norms and cultural standards across different cultures.
+      - Designed the experience as a “Duolingo-style” learning platform for cross-cultural understanding.
+
+  - organization: Hack Club Neighbourhood
+    location: San Francisco, California, United States
+    position: Selected Participant
+    startDate: 2025-05-12
+    endDate: 2025-06-08
+    highlights:
+      - Selected for an international Hack Club program focused on building and shipping independent projects.
+      - Worked alongside global peers in a high-intensity, startup-style environment.
+
+  - organization: Curtin Computer Science Students Association (ComSSA)
+    location: Perth, Western Australia, Australia
+    position: Sub-Committee Member
+    startDate: 2025-03-01
+    endDate: 2025-09-01
+    highlights:
+      - Primarily contributed to the Tech Team.
+      - Assisted with technical initiatives and supported event activities.
+
+  - organization: Curtin University Hackathon
+    location: Perth, Western Australia, Australia
+    position: Participant
+    startDate: 2024-12-01
+    endDate: 2024-12-01
+    highlights:
+      - Awarded “Most Innovative” for developing a novel technical solution under time constraints.
+      - Collaborated in a fast-paced team environment to design and prototype a working system.
+
+awards:
+  - title: Most Innovative Award
+    date: 2024-12-01
+    issuer: Curtin University/ComSSA Hackathon
+    location: Perth, Western Australia
+
+  - title: Charlie Bell Scholarship
+    date: 2024-12-01
+    issuer: Ronald McDonald House Charities WA
+    location: Perth, Western Australia
+
+  - title: Technical Resources Scholarship
+    date: 2024-12-01
+    issuer: Technical Recources Pty Ltd
+    location: Perth, Western Australia
+
+  - title: Year 12 Computer Science ATAR Award
+    date: 2024-10-01
+    issuer: Aquinas College WA
+    location: Perth, Western Australia
+
+  - title: Year 11 Computer Science ATAR Award
+    date: 2023-10-01
+    issuer: Aquinas College WA
+    location: Perth, Western Australia
+
+projects:
+  - name: "Still"
+    url: https://github.com/austindelic/still
+    affiliation: Independent / Open Source
+    startDate: 2024-12-01
+    endDate: Present
+    highlights:
+      - Designing and developing a Rust-based universal package manager focused on performance, determinism, and cross-platform support (macOS, Linux, Windows).
+      - Combines package management, version management, task running, and environment configuration into a single cohesive CLI tool.
+      - Implements TOML-based specifications with support for conditional logic, platform-aware builds, and conversion from existing Homebrew formulae.
+      - Prioritises fast execution, small binary size, and a clean developer experience compared to traditional tools like Homebrew and mise.
+      - Built with extensibility in mind, enabling future support for TUIs, dotfile management, and interoperability with other package managers.
+
+  - name: "Personal Website"
+    url: https://austindelic.com
+    affiliation: Independent
+    startDate: 2024-06-01
+    endDate: Present
+    highlights:
+      - Designed and built a personal portfolio and writing platform to showcase projects, technical work, and professional experience.
+      - Developed with a strong focus on performance, visual polish, and clarity, incorporating dynamic visuals and subtle motion effects.
+      - Serves as a central hub for open-source projects, experiments, blog-style posts, and long-form technical writing.
+      - Emphasises a clean, modern aesthetic while maintaining fast load times and accessibility across devices.
+      - Used as a living portfolio to iterate on design ideas, document learning, and present work to recruiters, collaborators, and startup programs.
+
+  - name: "crib."
+    url: https://github.com/austindelic/crib
+    affiliation: Independent
+    startDate: 2025-04-01
+    endDate: Present
+    highlights:
+      - Designed and built a full-stack personal and shared task management application focused on housemates and small groups.
+      - Developed using modern web technologies including Svelte 5 (runes), SvelteKit, PostgreSQL, and real-time data synchronisation.
+      - Enables users to manage shared responsibilities, vote on issues, raise concerns, schedule meetings, and track personal tasks alongside group tasks.
+      - Emphasises simplicity and usability, positioning the app as a lightweight alternative to complex tools like Notion or ClickUp.
+      - Architected with security in mind, including authenticated real-time updates and server-side event relays to protect infrastructure keys.
+
+skills:
+  - category: Soft Skills
+    skills:
+      - Public Speaking
+      - Communication
+      - Critical Thinking
+      - Leadership
+  - category: Programming
+    skills:
+      - Rust
+      - Python
+      - React
+      - TypeScript
+      - Bash
+  - category: Web Development
+    skills:
+      - Svelte & SvelteKit
+      - React
+      - Next.js
+      - Tailwind CSS
+      - Astro
+  - category: Infrastructure
+    skills:
+      - PostgreSQL
+      - Drizzle ORM
+      - Docker
+      - Nginx
+      - GraphQL
+
+languages:
+
+interests:
+
+references:
+  - name: Megan Hancock
+    email: megan@lightbulbskills.com.au
+    phone: "(+61) 404 511 662"
+    reference: Austin was a highly capable and reliable student with strong initiative.
+
+  - name: Brodie Smith
+    email: brodie@tiawa.com.au
+    phone: "(+61) 406 990 993"
+    reference: Demonstrated strong problem-solving skills and professionalism in a fast-paced environment.

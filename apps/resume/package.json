@@ -1,0 +1,10 @@
+{
+  "name": "resume",
+  "description": "Austin Delic's Portfolio",
+  "author": "austindelic",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "typst compile resume.typ ../portfolio/public/resume.pdf"
+  }
+}
