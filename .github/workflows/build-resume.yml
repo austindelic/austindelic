@@ -1,0 +1,35 @@
+name: Build resume (Typst)
+
+on:
+  push:
+    paths:
+      - "resume/**"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: typst-community/setup-typst@v4
+
+      - name: Build resume into portfolio public/
+        run: |
+          mkdir -p portfolio/public
+          typst compile resume/resume.typ portfolio/public/resume.pdf
+
+      - name: Commit updated resume PDF
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add portfolio/public/resume.pdf
+          git commit -m "chore(resume): rebuild resume PDF"
+          git push
