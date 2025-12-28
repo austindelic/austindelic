@@ -3,7 +3,7 @@ name: Build resume (Typst)
 on:
   push:
     paths:
-      - "resume/**"
+      - "apps/resume/**"
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -17,7 +17,6 @@ jobs:
 
       - name: Build resume into portfolio public/
         run: |
-          mkdir -p portfolio/public
           typst compile resume/resume.typ portfolio/public/resume.pdf
 
       - name: Commit updated resume PDF
