@@ -17,7 +17,7 @@ jobs:
 
       - name: Build resume into portfolio public/
         run: |
-          typst compile resume/resume.typ portfolio/public/resume.pdf
+          typst compile apps/resume/resume.typ apps/portfolio/public/resume.pdf
 
       - name: Commit updated resume PDF
         run: |
