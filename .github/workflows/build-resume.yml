@@ -4,8 +4,6 @@ on:
   push:
     paths:
       - "resume/**"
-  workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
