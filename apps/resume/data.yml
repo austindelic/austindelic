@@ -77,11 +77,9 @@ education:
     startDate: 2025-02-01
     endDate: 2030-10-01
     location: Perth, Western Australia
-    honors:
+    highlights:
       - 7.5 / 10 GPA
       - Dean's List
-    courses:
-    highlights:
 
   - institution: Aquinas College
     url: https://www.aquinas.wa.edu.au
@@ -90,45 +88,28 @@ education:
     endDate: 2024-10-01
     location: Perth, Western Australia
     highlights:
-      - 89.5 ATAR
       - Competitive Rower
       - Valedictory Dinner Speech ‘Day Boy’ representative
 affiliations:
-  - organization: Lyrathon
-    location: Sydney, New South Wales, Australia
-    position: Participant
-    startDate: 2025-12-12
-    endDate: 2025-12-14
-    highlights:
-      - Built an online take-home assessment platform, similar to LeetCode but designed for take-home tasks.
-      - Implemented recording and monitoring features to help detect cheating and preserve assessment integrity.
-
   - organization: Hack48
     location: Sydney, New South Wales, Australia
-    position: Participant
+    position: Sponsered Participant
     startDate: 2025-12-10
     endDate: 2025-12-12
     highlights:
+      - Sponsered to participate in Hack48, a competitive 48-hour hackathon bringing together top student builders from Australia and abroad.
       - Designed and built a system to convert written materials into Braille for visually impaired users.
       - Focused on accessibility, inclusive design, and rapid prototyping within a 48-hour timeframe.
 
-  - organization: UC Berkeley AI Hackathon
-    location: Berkeley, California, United States
-    position: Participant
-    startDate: 2025-05-21
-    endDate: 2025-05-22
-    highlights:
-      - Developed an educational app teaching social norms and cultural standards across different cultures.
-      - Designed the experience as a “Duolingo-style” learning platform for cross-cultural understanding.
-
   - organization: Hack Club Neighbourhood
     location: San Francisco, California, United States
-    position: Selected Participant
+    position: Sponsered Participant
     startDate: 2025-05-12
     endDate: 2025-06-08
     highlights:
-      - Selected for an international Hack Club program focused on building and shipping independent projects.
+      - Sponsered for an international Hack Club program focused on building and shipping independent projects.
       - Worked alongside global peers in a high-intensity, startup-style environment.
+      - Competed in the UC Berkeley AI Hackathon.
 
   - organization: Curtin Computer Science Students Association (ComSSA)
     location: Perth, Western Australia, Australia
@@ -141,12 +122,11 @@ affiliations:
 
   - organization: Curtin University Hackathon
     location: Perth, Western Australia, Australia
-    position: Participant
+    position: Participant Winner
     startDate: 2024-12-01
     endDate: 2024-12-01
     highlights:
       - Awarded “Most Innovative” for developing a novel technical solution under time constraints.
-      - Collaborated in a fast-paced team environment to design and prototype a working system.
 
 awards:
   - title: Most Innovative Award
@@ -164,20 +144,15 @@ awards:
     issuer: Technical Recources Pty Ltd
     location: Perth, Western Australia
 
-  - title: Year 12 Computer Science ATAR Award
+  - title: Year 11 & 12 Computer Science ATAR Dux Award
     date: 2024-10-01
-    issuer: Aquinas College WA
-    location: Perth, Western Australia
-
-  - title: Year 11 Computer Science ATAR Award
-    date: 2023-10-01
     issuer: Aquinas College WA
     location: Perth, Western Australia
 
 projects:
   - name: "Still"
     url: https://github.com/austindelic/still
-    affiliation: Independent / Open Source
+    affiliation: Open Source
     startDate: 2024-12-01
     endDate: Present
     highlights:
@@ -189,8 +164,8 @@ projects:
 
   - name: "Personal Website"
     url: https://austindelic.com
-    affiliation: Independent
-    startDate: 2024-06-01
+    affiliation: Open Source
+    startDate: 2024-08-01
     endDate: Present
     highlights:
       - Designed and built a personal portfolio and writing platform to showcase projects, technical work, and professional experience.
@@ -201,7 +176,7 @@ projects:
 
   - name: "crib."
     url: https://github.com/austindelic/crib
-    affiliation: Independent
+    affiliation: Open Source
     startDate: 2025-04-01
     endDate: Present
     highlights:
