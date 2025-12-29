@@ -22,7 +22,7 @@ personal:
 
 work:
   - organization: Independent Contracting
-    location: Perth, Australia | Remote
+    location: Perth, Australia, Remote
     positions:
       - position: Contract Software Developer (Full Stack)
         startDate: 2025-10-01
@@ -72,8 +72,7 @@ work:
 education:
   - institution: Curtin University
     url: https://www.curtin.edu.au
-    area: Computer Science & Mechatronics Engineering
-    studyType: Bachelor of Science & Engineering
+    studyType: Mechatronic Engineering Honours and Computer Science Double Degree Major (BEng Hons/BSc)
     startDate: 2025-02-01
     endDate: 2030-10-01
     location: Perth, Western Australia
@@ -91,26 +90,6 @@ education:
       - Competitive Rower
       - Valedictory Dinner Speech ‘Day Boy’ representative
 affiliations:
-  - organization: Hack48
-    location: Sydney, New South Wales, Australia
-    position: Sponsered Participant
-    startDate: 2025-12-10
-    endDate: 2025-12-12
-    highlights:
-      - Sponsered to participate in Hack48, a competitive 48-hour hackathon bringing together top student builders from Australia and abroad.
-      - Designed and built a system to convert written materials into Braille for visually impaired users.
-      - Focused on accessibility, inclusive design, and rapid prototyping within a 48-hour timeframe.
-
-  - organization: Hack Club Neighbourhood
-    location: San Francisco, California, United States
-    position: Sponsered Participant
-    startDate: 2025-05-12
-    endDate: 2025-06-08
-    highlights:
-      - Sponsered for an international Hack Club program focused on building and shipping independent projects.
-      - Worked alongside global peers in a high-intensity, startup-style environment.
-      - Competed in the UC Berkeley AI Hackathon.
-
   - organization: Curtin Computer Science Students Association (ComSSA)
     location: Perth, Western Australia, Australia
     position: Sub-Committee Member
@@ -119,31 +98,40 @@ affiliations:
     highlights:
       - Primarily contributed to the Tech Team.
       - Assisted with technical initiatives and supported event activities.
-
-  - organization: Curtin University Hackathon
-    location: Perth, Western Australia, Australia
-    position: Participant Winner
-    startDate: 2024-12-01
-    endDate: 2024-12-01
-    highlights:
-      - Awarded “Most Innovative” for developing a novel technical solution under time constraints.
-
 awards:
-  - title: Most Innovative Award
-    date: 2024-12-01
-    issuer: Curtin University/ComSSA Hackathon
-    location: Perth, Western Australia
+  - title: Sponsored Participant of Hack48
+    date: 2025-12-10
+    issuer: Hack48
+    location: Sydney, New South Whales, Australia
+    highlights:
+      - Sponsered to participate in Hack48, a competitive 48-hour hackathon bringing together top student builders from Australia and abroad.
+      - Designed and built a system to convert written materials into Braille for visually impaired users.
+      - Also Participated in Lyrathon while in Sydney, completing a total of two 48 hour hackathons back to back.
 
-  - title: Charlie Bell Scholarship
-    date: 2024-12-01
-    issuer: Ronald McDonald House Charities WA
-    location: Perth, Western Australia
+  - title: Sponsored Participant of Hackclub Residency
+    date: 2025-06-01
+    issuer: Hack Club
+    location: San Francisco, California, United States
+    highlights:
+      - Sponsered for an international Hack Club program focused on building and shipping independent projects.
+      - Worked alongside global peers in a high-intensity, startup-style environment.
+      - Competed in the UC Berkeley AI Hackathon.
+      - Particpated from June to July.
 
   - title: Technical Resources Scholarship
     date: 2024-12-01
     issuer: Technical Recources Pty Ltd
     location: Perth, Western Australia
-
+  - title: Charlie Bell Scholarship
+    date: 2024-12-01
+    issuer: Ronald McDonald House Charities WA
+    location: Perth, Western Australia
+  - title: Most Innovative Award
+    date: 2024-12-01
+    issuer: Curtin University/ComSSA Hackathon Winner
+    location: Perth, Western Australia
+    highlights:
+      - Awarded “Most Innovative”.
   - title: Year 11 & 12 Computer Science ATAR Dux Award
     date: 2024-10-01
     issuer: Aquinas College WA
@@ -159,8 +147,6 @@ projects:
       - Designing and developing a Rust-based universal package manager focused on performance, determinism, and cross-platform support (macOS, Linux, Windows).
       - Combines package management, version management, task running, and environment configuration into a single cohesive CLI tool.
       - Implements TOML-based specifications with support for conditional logic, platform-aware builds, and conversion from existing Homebrew formulae.
-      - Prioritises fast execution, small binary size, and a clean developer experience compared to traditional tools like Homebrew and mise.
-      - Built with extensibility in mind, enabling future support for TUIs, dotfile management, and interoperability with other package managers.
 
   - name: "Personal Website"
     url: https://austindelic.com
@@ -168,11 +154,8 @@ projects:
     startDate: 2024-08-01
     endDate: Present
     highlights:
-      - Designed and built a personal portfolio and writing platform to showcase projects, technical work, and professional experience.
+      - Designed and built a personal portfolio using astro and writing platform to showcase projects, technical work, and professional experience.
       - Developed with a strong focus on performance, visual polish, and clarity, incorporating dynamic visuals and subtle motion effects.
-      - Serves as a central hub for open-source projects, experiments, blog-style posts, and long-form technical writing.
-      - Emphasises a clean, modern aesthetic while maintaining fast load times and accessibility across devices.
-      - Used as a living portfolio to iterate on design ideas, document learning, and present work to recruiters, collaborators, and startup programs.
 
   - name: "crib."
     url: https://github.com/austindelic/crib
@@ -182,9 +165,6 @@ projects:
     highlights:
       - Designed and built a full-stack personal and shared task management application focused on housemates and small groups.
       - Developed using modern web technologies including Svelte 5 (runes), SvelteKit, PostgreSQL, and real-time data synchronisation.
-      - Enables users to manage shared responsibilities, vote on issues, raise concerns, schedule meetings, and track personal tasks alongside group tasks.
-      - Emphasises simplicity and usability, positioning the app as a lightweight alternative to complex tools like Notion or ClickUp.
-      - Architected with security in mind, including authenticated real-time updates and server-side event relays to protect infrastructure keys.
 
 skills:
   - category: Soft Skills
