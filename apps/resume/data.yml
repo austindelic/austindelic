@@ -29,7 +29,6 @@ work:
         endDate: present
         highlights:
           - Designed, built, and maintained full-stack software solutions serving hundreds of active users across Australia’s eastern states.
-          - Delivered production-grade systems across frontend, backend, and database layers.
           - Worked directly with clients to scope requirements, iterate on features, and deploy updates to live environments.
           - Managed deployments, reliability, and ongoing improvements for actively used applications.
   - organization: Aquinas College WA
@@ -41,7 +40,6 @@ work:
         endDate: present
         highlights:
           - Provided ICT and audiovisual support to staff and students.
-          - Assisted with troubleshooting hardware, software, and AV systems.
           - Supported day-to-day technology operations across the campus.
 
   - organization: Lightbulb Skills
@@ -52,8 +50,7 @@ work:
         startDate: 2024-10-01
         endDate: 2025-12-23
         highlights:
-          - Developed and maintained a full-stack CRM system using Next.js, React, and Supabase.
-          - Streamlined customer relationship management processes for the organisation.
+          - Developed and maintained a full-stack CRM system using Next.js, React, and PostgreSQL.
           - Applied modern web development practices to support a community-focused business.
   - organization: Global College Australasia
     url: https://globalcollege.edu.au
@@ -64,10 +61,7 @@ work:
         endDate: 2024-04-01
         highlights:
           - Provided IT helpdesk support to staff and students.
-          - Troubleshot hardware and software issues across multiple systems.
           - Assisted with device management, system setup, and software updates.
-          - Strengthened communication skills by supporting users with varied technical ability.
-          - Gained practical experience in IT support processes and system diagnostics.
 
 education:
   - institution: Curtin University
@@ -78,7 +72,7 @@ education:
     location: Perth, Western Australia
     highlights:
       - 7.5 / 10 GPA
-      - Dean's List
+      - Letter of Comendation (Dean's List)
 
   - institution: Aquinas College
     url: https://www.aquinas.wa.edu.au
@@ -147,15 +141,6 @@ projects:
       - Designing and developing a Rust-based universal package manager focused on performance, determinism, and cross-platform support (macOS, Linux, Windows).
       - Combines package management, version management, task running, and environment configuration into a single cohesive CLI tool.
       - Implements TOML-based specifications with support for conditional logic, platform-aware builds, and conversion from existing Homebrew formulae.
-
-  - name: "Personal Website"
-    url: https://austindelic.com
-    affiliation: Open Source
-    startDate: 2024-08-01
-    endDate: Present
-    highlights:
-      - Designed and built a personal portfolio using astro and writing platform to showcase projects, technical work, and professional experience.
-      - Developed with a strong focus on performance, visual polish, and clarity, incorporating dynamic visuals and subtle motion effects.
 
   - name: "crib."
     url: https://github.com/austindelic/crib
