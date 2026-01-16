@@ -1,5 +1,4 @@
 #import "utils.typ"
-
 // set rules
 #let setrules(uservars, doc) = {
   set text(
