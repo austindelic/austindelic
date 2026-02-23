@@ -21,11 +21,11 @@ personal:
       url: https://github.com/austindelic
 
 work:
-  - organization: Independent Contracting
-    location: Perth, Australia, Remote
+  - organization: Scrypt Ventures
+    location: Sydney, Australia, Remote
     positions:
-      - position: Contract Software Developer (Full Stack)
-        startDate: 2025-10-01
+      - position: Software Engineer
+        startDate: 2026-01-01
         endDate: present
         highlights:
           - Designed, built, and maintained full-stack software solutions serving hundreds of active users across Australia’s eastern states.
@@ -66,21 +66,31 @@ work:
 education:
   - institution: Curtin University
     url: https://www.curtin.edu.au
-    studyType: Mechatronic Engineering Honours and Computer Science Double Degree Major (BEng Hons/BSc)
+    studyType: Computer Science Degree Major
+    startDate: 2026-02-01
+    endDate: 2029-10-01
+    location: Perth, Western Australia
+    highlights:
+      - 9 / 10 GPA
+
+  - institution: Curtin University
+    url: https://www.curtin.edu.au
+    studyType: Mechatronic Engineering Honours and Computer Science Double Degree (BEng Hons/BSc)
     startDate: 2025-02-01
-    endDate: 2030-10-01
+    endDate: 2025-10-01
     location: Perth, Western Australia
     highlights:
       - 7.5 / 10 GPA
-      - Letter of Comendation (Dean's List)
+      - Letter of Commendation (Dean's List)
 
   - institution: Aquinas College
     url: https://www.aquinas.wa.edu.au
-    studyType: "Diploma"
+    studyType: "Western Australian Certificate of Education (WACE)"
     startDate: 2016-02-01
     endDate: 2024-10-01
     location: Perth, Western Australia
     highlights:
+      - Computer Science ATAR Dux
       - Competitive Rower
       - Valedictory Dinner Speech ‘Day Boy’ representative
 affiliations:
@@ -96,9 +106,9 @@ awards:
   - title: Sponsored Participant of Hack48
     date: 2025-12-10
     issuer: Hack48
-    location: Sydney, New South Whales, Australia
+    location: Sydney, New South Wales, Australia
     highlights:
-      - Sponsered to participate in Hack48, a competitive 48-hour hackathon bringing together top student builders from Australia and abroad.
+      - Sponsored to participate in Hack48, a competitive 48-hour hackathon bringing together top student builders from Australia and abroad.
       - Designed and built a system to convert written materials into Braille for visually impaired users.
       - Also Participated in Lyrathon while in Sydney, completing a total of two 48 hour hackathons back to back.
 
@@ -107,14 +117,14 @@ awards:
     issuer: Hack Club
     location: San Francisco, California, United States
     highlights:
-      - Sponsered for an international Hack Club program focused on building and shipping independent projects.
+      - Sponsored for an international Hack Club program focused on building and shipping independent projects.
       - Worked alongside global peers in a high-intensity, startup-style environment.
       - Competed in the UC Berkeley AI Hackathon.
-      - Particpated from June to July.
+      - Participated from June to July.
 
   - title: Technical Resources Scholarship
     date: 2024-12-01
-    issuer: Technical Recources Pty Ltd
+    issuer: Technical Resources Pty Ltd
     location: Perth, Western Australia
   - title: Charlie Bell Scholarship
     date: 2024-12-01
