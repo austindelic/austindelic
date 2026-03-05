@@ -21,12 +21,30 @@ personal:
       url: https://github.com/austindelic
 
 work:
+  - organization: AITAI - AI Institute
+    url: https://www.aitai.org.au
+    location: Perth, Western Australia
+    positions:
+      - position: LaunchLAB AI Cohort One '26
+        startDate: 2026-03-01
+        endDate: present
+        highlights:
   - organization: Scrypt Ventures
+    url: https://www.aquinas.wa.edu.au
+    location: Perth, Western Australia
+    positions:
+      - position: Software Developer
+        startDate: 2026-03-01
+        endDate: present
+        highlights:
+          - Provided ICT and audiovisual support to staff and students.
+          - Supported day-to-day technology operations across the campus.
+  - organization: Independent Contracting
     location: Sydney, Australia, Remote
     positions:
       - position: Software Engineer
         startDate: 2026-01-01
-        endDate: present
+        endDate: 2026-03-01
         highlights:
           - Designed, built, and maintained full-stack software solutions serving hundreds of active users across Australia’s eastern states.
           - Worked directly with clients to scope requirements, iterate on features, and deploy updates to live environments.
@@ -37,11 +55,10 @@ work:
     positions:
       - position: Casual ICT Helpdesk & AV Assistant
         startDate: 2025-03-01
-        endDate: present
+        endDate: 2026-03-01
         highlights:
           - Provided ICT and audiovisual support to staff and students.
           - Supported day-to-day technology operations across the campus.
-
   - organization: Lightbulb Skills
     url: https://www.lightbulbskills.com.au
     location: Perth, Western Australia
