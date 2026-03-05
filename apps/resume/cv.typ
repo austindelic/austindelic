@@ -144,9 +144,11 @@
             #text(style: "italic")[#p.position] #h(1fr)
             #utils.daterange(start, end) \
             // Highlights or Description
-            #for hi in p.highlights [
-              - #eval(hi, mode: "markup")
-            ]
+            #if ("highlights" in p) and (p.highlights != none) {
+              for hi in p.highlights [
+                - #eval(hi, mode: "markup")
+              ]
+            }
           ]
           index = index + 1
         }
