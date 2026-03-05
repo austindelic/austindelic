@@ -30,15 +30,13 @@ work:
         endDate: present
         highlights:
   - organization: Scrypt Ventures
-    url: https://www.aquinas.wa.edu.au
+    url: https://scrypt.com.au/
     location: Perth, Western Australia
     positions:
       - position: Software Developer
         startDate: 2026-03-01
         endDate: present
         highlights:
-          - Provided ICT and audiovisual support to staff and students.
-          - Supported day-to-day technology operations across the campus.
   - organization: Independent Contracting
     location: Sydney, Australia, Remote
     positions:
