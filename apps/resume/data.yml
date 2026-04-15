@@ -31,14 +31,14 @@ work:
         highlights:
   - organization: Scrypt Ventures
     url: https://scrypt.com.au/
-    location: Perth, Western Australia
+    location: Sydney, Western Australia, Remote
     positions:
-      - position: Software Developer
+      - position: Junior Software Engineer
         startDate: 2026-03-01
         endDate: present
         highlights:
   - organization: Independent Contracting
-    location: Perth, Western Australia, Remote
+    location: Perth, Western Australia
     positions:
       - position: Software Engineer
         startDate: 2026-01-01
@@ -118,6 +118,12 @@ affiliations:
       - Primarily contributed to the Tech Team.
       - Assisted with technical initiatives and supported event activities.
 awards:
+  - title: 3rd Prize Hackathon Winner
+    date: 2026-04-12
+    issuer: VisagioX & Venture UWA Hackathon
+    location: Perth, Western Australia
+    highlights:
+      - Built an on-device AI app that detects harmful conversation patterns in real time.
   - title: Sponsored Participant of Hack48
     date: 2025-12-10
     issuer: Hack48
