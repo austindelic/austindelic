@@ -131,27 +131,24 @@
           ] else [
             *#w.organization* #h(1fr) *#w.location* \
           ]
+          // Positions (kept in same block as company name to prevent orphaned headers)
+          #for p in w.positions {
+            block(width: 100%, breakable: isbreakable, above: 0.6em)[
+              // Parse ISO date strings into datetime objects
+              #let start = utils.strpdate(p.startDate)
+              #let end = utils.strpdate(p.endDate)
+              // Line 2: Position and Date Range
+              #text(style: "italic")[#p.position] #h(1fr)
+              #utils.daterange(start, end) \
+              // Highlights or Description
+              #if ("highlights" in p) and (p.highlights != none) {
+                for hi in p.highlights [
+                  - #eval(hi, mode: "markup")
+                ]
+              }
+            ]
+          }
         ]
-        // Create a block layout for each work entry
-        let index = 0
-        for p in w.positions {
-          if index != 0 { v(0.6em) }
-          block(width: 100%, breakable: isbreakable, above: 0.6em)[
-            // Parse ISO date strings into datetime objects
-            #let start = utils.strpdate(p.startDate)
-            #let end = utils.strpdate(p.endDate)
-            // Line 2: Position and Date Range
-            #text(style: "italic")[#p.position] #h(1fr)
-            #utils.daterange(start, end) \
-            // Highlights or Description
-            #if ("highlights" in p) and (p.highlights != none) {
-              for hi in p.highlights [
-                - #eval(hi, mode: "markup")
-              ]
-            }
-          ]
-          index = index + 1
-        }
       }
     ]
   }

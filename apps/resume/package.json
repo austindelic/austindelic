@@ -5,6 +5,7 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "build": "typst compile resume.typ ../portfolio/public/resume.pdf"
+    "build": "bash build-all.sh",
+    "build:base": "typst compile resume.typ ../portfolio/public/resume.pdf"
   }
 }
