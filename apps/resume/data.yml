@@ -50,7 +50,7 @@ work:
         highlights:
           - Engineered and shipped full-stack applications serving hundreds of active users across Australia’s eastern states, owning the product end-to-end.
           - Collaborated directly with clients to define requirements, iterate rapidly on features, and deliver production deployments with tight turnarounds.
-          - Operated the full delivery lifecycle — architecture, implementation, deployment, and post-launch reliability — as a solo engineer.
+          - Operated the full delivery lifecycle, architecture, implementation, deployment, and post-launch reliability, as a solo engineer.
   - organization: Aquinas College WA
     url: https://www.aquinas.wa.edu.au
     location: Perth, Western Australia
@@ -88,7 +88,7 @@ education:
     endDate: 2025-10-01
     location: Perth, Western Australia
     highlights:
-      - GPA 7.5 / 10.0 — transferred to Computer Science after first year
+      - GPA 7.5 / 10.0, transferred to Computer Science after first year
       - Letter of Commendation (Dean's List)
 
   - institution: Aquinas College
@@ -108,21 +108,21 @@ affiliations:
     highlights:
       - Contributed to the Tech Team, building and maintaining tooling and infrastructure for the association's events and online presence.
 awards:
-  - title: 3rd Place — VisagioX & Venture UWA Hackathon
+  - title: 3rd Place, VisagioX & Venture UWA Hackathon
     date: 2026-04-12
     issuer: VisagioX & Venture UWA
     location: Perth, Western Australia
     highlights:
       - Built an on-device AI application that detects harmful conversation patterns in real time, with no data leaving the device.
-  - title: Sponsored Participant — Hack48
+  - title: Sponsored Participant, Hack48
     date: 2025-12-10
     issuer: Hack48
     location: Sydney, New South Wales, Australia
     highlights:
       - Competitively sponsored to attend Hack48, a 48-hour hackathon uniting top student builders across Australia and internationally.
       - Engineered a system to convert written materials into Braille, targeting accessibility for visually impaired users.
-      - Completed Lyrathon in the same trip — two consecutive 48-hour hackathons back to back.
-  - title: Sponsored Participant — Hack Club Residency
+      - Completed Lyrathon in the same trip, two consecutive 48-hour hackathons back to back.
+  - title: Sponsored Participant, Hack Club Residency
     date: 2025-06-01
     issuer: Hack Club
     location: San Francisco, California, United States
@@ -137,7 +137,7 @@ awards:
     date: 2024-12-01
     issuer: Ronald McDonald House Charities WA
     location: Perth, Western Australia
-  - title: Most Innovative — ComSSA Hackathon
+  - title: Most Innovative, ComSSA Hackathon
     date: 2024-12-01
     issuer: Curtin University / ComSSA
     location: Perth, Western Australia
@@ -154,7 +154,7 @@ projects:
     endDate: Present
     highlights:
       - Building a Rust-based universal package manager targeting cross-platform deterministic resolution across macOS, Linux, and Windows.
-      - Consolidates package management, version pinning, task execution, and environment configuration into a single composable CLI — replacing the fragmented toolchain (Homebrew, mise, Make, direnv).
+      - Consolidates package management, version pinning, task execution, and environment configuration into a single composable CLI, replacing the fragmented toolchain (Homebrew, mise, Make, direnv).
       - Implements a custom TOML spec with conditional logic, platform-aware build graphs, and first-class Homebrew formula compatibility.
 
   - name: "crib."
@@ -164,7 +164,7 @@ projects:
     endDate: Present
     highlights:
       - Built a full-stack collaborative task manager for housemates and small groups, designed around shared accountability and real-time updates.
-      - Implemented with Svelte 5 (runes), SvelteKit, and PostgreSQL — leveraging fine-grained reactivity and server-sent events for live synchronisation across clients.
+      - Implemented with Svelte 5 (runes), SvelteKit, and PostgreSQL, leveraging fine-grained reactivity and server-sent events for live synchronisation across clients.
 
 skills:
   - category: Soft Skills

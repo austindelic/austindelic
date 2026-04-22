@@ -57,6 +57,10 @@ bun run format       # prettier format
 bun run ci           # full check + build (pre-PR gate)
 ```
 
+## Resume Writing Rules
+
+- Never use em dashes (—) in resume content. Use commas or semicolons instead.
+
 ## Notes
 
 - `turbo` not in PATH directly — use `bun run <script>` or `bunx turbo`
