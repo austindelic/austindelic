@@ -55,6 +55,5 @@
 #cvaffiliations(cvdata)
 #cvcertificates(cvdata)
 #cvpublications(cvdata)
-#cvskills(cvdata)
+#cvskills(cvdata, title: "Skills")
 #cvreferences(cvdata)
-#endnote(uservars)

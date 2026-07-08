@@ -21,26 +21,26 @@ personal:
       url: https://github.com/austindelic
 
 work:
+  - organization: Scrypt Ventures
+    url: https://scrypt.com.au/
+    location: Perth, Western Australia (Remote)
+    positions:
+      - position: Junior Software Engineer
+        startDate: 2026-03-01
+        endDate: present
+        highlights:
+          - Performed full-stack engineering across a production healthcare payments platform spanning Angular web apps, NativeScript mobile, .NET 9 APIs, Azure cloud services, CI/CD, and operational tooling.
+          - Worked across the release path from code to production, contributing to Azure DevOps pipelines, Docker image publishing, AKS deployments, Azure Web Apps/static sites, and dev/UAT/prod configuration.
+          - Contributed to Auth0/Firebase authentication, payment workflows, REST/OpenAPI APIs, SQL Server/EF Core data access, background jobs, observability, and automation tooling.
   - organization: AITAI - AI Institute
     url: https://www.aitai.org.au
     location: Perth, Western Australia
     positions:
       - position: LaunchLAB AI Cohort One '26
         startDate: 2026-03-01
-        endDate: present
+        endDate: 2026-05-01
         highlights:
-          - Competitively selected for Cohort One of LaunchLAB AI '26, an AI product accelerator run by the AI Institute of Australia.
-          - Building and shipping AI-native products involving machine learning model integration, real-time inference, and structured iteration with industry mentors.
-  - organization: Scrypt Ventures
-    url: https://scrypt.com.au/
-    location: Remote
-    positions:
-      - position: Junior Software Engineer
-        startDate: 2026-03-01
-        endDate: present
-        highlights:
-          - Engineering and shipping production features across the full stack at a pharmaceutical software venture, working remotely with a distributed team.
-          - Contributing to system design decisions, code review, and deployment pipelines alongside senior engineers.
+          - Selected for LaunchLAB AI Cohort One '26, building AI-native products with model integration, real-time inference, and structured iteration with industry mentors.
   - organization: Independent Contracting
     location: Perth, Western Australia
     positions:
@@ -48,19 +48,8 @@ work:
         startDate: 2026-01-01
         endDate: 2026-03-01
         highlights:
-          - Engineered and shipped full-stack applications serving hundreds of active users across Australia’s eastern states, owning the product end-to-end.
-          - Collaborated directly with clients to define requirements, iterate rapidly on features, and deliver production deployments with tight turnarounds.
-          - Operated the full delivery lifecycle, architecture, implementation, deployment, and post-launch reliability, as a solo engineer.
-  - organization: Aquinas College WA
-    url: https://www.aquinas.wa.edu.au
-    location: Perth, Western Australia
-    positions:
-      - position: Casual ICT Helpdesk & AV Assistant
-        startDate: 2025-03-01
-        endDate: 2026-03-01
-        highlights:
-          - Resolved ICT and AV issues across a large campus environment, prioritising uptime for classrooms and events.
-          - Maintained and supported hardware, networking, and software systems for staff and 1,500+ students.
+          - Built and shipped full-stack client applications serving hundreds of users, owning requirements, architecture, implementation, deployment, and support end-to-end.
+          - Worked directly with clients to scope, iterate, and launch production software on tight timelines.
   - organization: Lightbulb Skills
     url: https://www.lightbulbskills.com.au
     location: Perth, Western Australia
@@ -69,8 +58,7 @@ work:
         startDate: 2024-10-01
         endDate: 2025-12-23
         highlights:
-          - Architected and maintained a production CRM system built on Next.js, React, and PostgreSQL, serving real business operations.
-          - Owned feature development from schema design through UI, shipping improvements iteratively in a live production environment.
+          - Built and maintained a production CRM with Next.js, React, and PostgreSQL, owning schema design, UI, and iterative feature delivery.
 
 education:
   - institution: Curtin University
@@ -80,123 +68,56 @@ education:
     endDate: 2028-10-01
     location: Perth, Western Australia
     highlights:
-
-  - institution: Curtin University
-    url: https://www.curtin.edu.au
-    studyType: Mechatronic Engineering Honours and Computer Science Double Degree (BEng Hons/BSc)
-    startDate: 2025-02-01
-    endDate: 2025-10-01
-    location: Perth, Western Australia
-    highlights:
-      - GPA 7.5 / 10.0, transferred to Computer Science after first year
-      - Letter of Commendation (Dean's List)
-
-  - institution: Aquinas College
-    url: https://www.aquinas.wa.edu.au
-    studyType: "Western Australian Certificate of Education (WACE)"
-    startDate: 2016-02-01
-    endDate: 2024-10-01
-    location: Perth, Western Australia
-    highlights:
-      - Computer Science ATAR Dux
-affiliations:
-  - organization: Curtin Computer Science Students Association (ComSSA)
-    location: Perth, Western Australia, Australia
-    position: Sub-Committee Member
-    startDate: 2025-03-01
-    endDate: 2025-09-01
-    highlights:
-      - Contributed to the Tech Team, building and maintaining tooling and infrastructure for the association's events and online presence.
-awards:
-  - title: 3rd Place, VisagioX & Venture UWA Hackathon
-    date: 2026-04-12
-    issuer: VisagioX & Venture UWA
-    location: Perth, Western Australia
-    highlights:
-      - Built an on-device AI application that detects harmful conversation patterns in real time, with no data leaving the device.
-  - title: Sponsored Participant, Hack48
-    date: 2025-12-10
-    issuer: Hack48
-    location: Sydney, New South Wales, Australia
-    highlights:
-      - Competitively sponsored to attend Hack48, a 48-hour hackathon uniting top student builders across Australia and internationally.
-      - Engineered a system to convert written materials into Braille, targeting accessibility for visually impaired users.
-      - Completed Lyrathon in the same trip, two consecutive 48-hour hackathons back to back.
-  - title: Sponsored Participant, Hack Club Residency
-    date: 2025-06-01
-    issuer: Hack Club
-    location: San Francisco, California, United States
-    highlights:
-      - Sponsored for an international Hack Club residency in San Francisco, shipping independent projects alongside peers from across the world.
-      - Competed in the UC Berkeley AI Hackathon (Jun–Jul 2025).
-  - title: Technical Resources Scholarship
-    date: 2024-12-01
-    issuer: Technical Resources Pty Ltd
-    location: Perth, Western Australia
-  - title: Charlie Bell Scholarship
-    date: 2024-12-01
-    issuer: Ronald McDonald House Charities WA
-    location: Perth, Western Australia
-  - title: Most Innovative, ComSSA Hackathon
-    date: 2024-12-01
-    issuer: Curtin University / ComSSA
-    location: Perth, Western Australia
-  - title: Computer Science ATAR Dux
-    date: 2024-10-01
-    issuer: Aquinas College WA
-    location: Perth, Western Australia
-
+      - High Distinction results in Unix and C Programming (COMP1000) 97, Data Structures and Algorithms (COMP1002) 93, and Programming Design and Implementation (COMP1007) 94.
+      - Letter of Commendation (Dean's List); completed first-year Mechatronic Engineering Honours / Computer Science coursework before transferring into Computer Science.
 projects:
+  - name: "Tactify (AI Accessibility Platform)"
+    affiliation: Personal Project
+    startDate: 2026-01-01
+    endDate: Present
+    highlights:
+      - Built Tactify during Perth Hackerhouse, an AI accessibility platform that turns visual documents, worksheets, and diagrams into tactile-ready SVG graphics with guided audio narration for blind and low-vision users.
+      - Owned the system end-to-end across a Next.js / React product surface, Go backend, contract-first protobuf APIs, authentication, object storage, Dockerized infrastructure, and a Gemini/ImageMagick/vtracer/TTS processing pipeline.
+
   - name: "Still"
     url: https://github.com/austindelic/still
     affiliation: Open Source
     startDate: 2024-12-01
     endDate: Present
     highlights:
-      - Building a Rust-based universal package manager targeting cross-platform deterministic resolution across macOS, Linux, and Windows.
-      - Consolidates package management, version pinning, task execution, and environment configuration into a single composable CLI, replacing the fragmented toolchain (Homebrew, mise, Make, direnv).
-      - Implements a custom TOML spec with conditional logic, platform-aware build graphs, and first-class Homebrew formula compatibility.
-
-  - name: "crib."
-    url: https://github.com/austindelic/crib
-    affiliation: Open Source
-    startDate: 2025-04-01
-    endDate: Present
-    highlights:
-      - Built a full-stack collaborative task manager for housemates and small groups, designed around shared accountability and real-time updates.
-      - Implemented with Svelte 5 (runes), SvelteKit, and PostgreSQL, leveraging fine-grained reactivity and server-sent events for live synchronisation across clients.
+      - Built a Rust-based project environment manager that turns development environments into typed, reviewable desired state through still.toml, lockfiles, and config mutations.
+      - Architected a multi-crate Rust workspace with CLI/TUI frontends, an async engine core, feature-gated package-source adapters, install planning, rollback-aware state recording, and SHA-256 trust enforcement.
 
 skills:
-  - category: Soft Skills
-    skills:
-      - Public Speaking
-      - Communication
-      - Critical Thinking
-      - Leadership
   - category: Languages
     skills:
-      - Python
       - TypeScript / JavaScript
-      - C / C++
       - Go
       - Rust
-      - Kotlin
+      - Python
+      - C / C++
+      - C#
       - SQL
       - Bash
-  - category: Web & Frontend
+  - category: Full-Stack
     skills:
-      - Svelte & SvelteKit
       - React & Next.js
-      - Tailwind CSS
-      - Astro
-  - category: Infrastructure
+      - Angular
+      - SvelteKit
+      - NativeScript
+      - .NET / ASP.NET Core
+      - REST/OpenAPI
+      - protobuf
+  - category: Data, Cloud & Tools
     skills:
-      - Linux
       - PostgreSQL
+      - SQL Server
+      - EF Core
       - Docker
-      - Nginx
-      - Drizzle ORM
-      - GraphQL
+      - Kubernetes / AKS
+      - Azure DevOps
+      - Linux
+      - Auth0 / Firebase
 
 languages:
 
