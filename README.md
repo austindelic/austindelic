@@ -1,57 +1,68 @@
-<a href="https://austindelic.com"><img src="./assets/readme/masthead.webp" width="100%" alt="Austin Delic. Software and systems. Perth, Australia. An amber ASCII black hole beside silver pixel lettering." /></a>
+<a href="https://austindelic.com"><img src="./assets/readme/masthead-navara-contact-transparent.webp" width="1800" alt="Austin Delic — software engineer in Perth, Australia. My white 2014 D22 Navara in a stylized side profile, with its tyres resting on the lettering across the gap in my name." /></a>
 
-Software engineer in Perth. Founding Engineer at **The Next Something**.
+I'm Austin, a software engineer in Perth and Founding Engineer at **The Next Something**.
 
-I build production applications, Rust tooling, and graphics that run in browsers and terminals.
+I build web applications, Rust tools, and graphics you can explore in a browser or terminal.
 
-[Portfolio](https://austindelic.com) · [Email](mailto:austin@austindelic.com) · [LinkedIn](https://www.linkedin.com/in/austindelic) · [Résumé](https://austindelic.com/resume.pdf)
-
-## <img src="./assets/readme/terminal.svg" width="24" height="24" alt="Terminal" /> Run it
-
-My portfolio also runs as a native Rust app, with a GPU-rendered black hole drawn in terminal characters.
-
-```sh
-npx austindelic
-```
-
-Node 22+. macOS, Linux, or Windows. Explore with WASD; press `?` for controls and `q` to quit outside Explore. Content is embedded, so the app works offline after installation.
+[Portfolio ↗](https://austindelic.com) · [Email](mailto:austin@austindelic.com) · [LinkedIn ↗](https://www.linkedin.com/in/austindelic)
 
 ## Selected work
 
 ### Blackhole
 
-An interactive black-hole renderer for the web and Rust, with a React component, Ratatui widget, terminal explorer, and Ghostty shader.
+An interactive black-hole renderer for the web and Rust, with a React component, Ratatui widget, standalone explorers, and Ghostty shader.
 
-[Explore](https://blackhole.austindelic.com) · [Source and installation](https://github.com/austindelic/blackhole)
+[Explore ↗](https://blackhole.austindelic.com) · [Source and installation ↗](https://github.com/austindelic/blackhole)
 
-### <img src="./assets/readme/browser.svg" width="24" height="24" alt="Browser" /> Portfolio
+<h3><a href="https://austindelic.com"><img src="./assets/readme/portfolio.webp" width="1800" alt="01 / Portfolio" /></a></h3>
 
-Astro on the web; Rust, Ratatui, and wgpu in the terminal. Shared content and shaders, an explorable black hole, and a static fallback when graphics initialization fails.
+A website and a native terminal app, built around an interactive ASCII black hole. Shared content and shaders connect the two.
 
-[Open the website](https://austindelic.com) · [Source](https://github.com/austindelic/portfolio) · [Terminal source](https://github.com/austindelic/portfolio/tree/main/apps/tui)
+**Astro · React · Rust · Ratatui · wgpu**
 
-### <img src="./assets/readme/systems.svg" width="24" height="24" alt="Systems" /> Still
+[Explore the website ↗](https://austindelic.com) · [How the site and terminal fit together ↗](https://austindelic.com/blog/site-and-terminal/) · [Portfolio source](https://github.com/austindelic/portfolio) · [Terminal source](https://github.com/austindelic/portfolio/tree/main/apps/tui) · [Blackhole renderer](https://github.com/austindelic/blackhole)
 
-A Rust project environment manager. Typed configuration, install planning, lockfiles, and SHA-256 configuration trust, with CLI and TUI frontends over a shared async engine.
+<h3><a href="https://github.com/austindelic/still"><img src="./assets/readme/still-environment.webp" width="1800" alt="02 / Still" /></a></h3>
 
-[Source](https://github.com/austindelic/still) · [Design notes](https://austindelic.com/blog/still-and-desired-state/)
+A project environment manager that makes setup explicit: typed configuration, installation plans, lockfiles, and trust checks when your config changes.
 
-### <img src="./assets/readme/tactile.svg" width="24" height="24" alt="Tactile graphics" /> Tactify
+**Rust · CLI + TUI · TOML**
 
-Visual learning material converted into tactile SVG graphics and guided audio for blind and low-vision users. Built at Perth Hackerhouse with Next.js, Go, and protobuf APIs.
+[View source ↗](https://github.com/austindelic/still)
 
-[Build notes](https://austindelic.com/blog/building-tactify/)
+<h3><img src="./assets/readme/tactify.webp" width="1800" alt="03 / Tactify" /></h3>
+
+Turns visual learning material into tactile SVG graphics and guided audio for blind and low-vision users. Started at Perth Hackerhouse.
+
+**Next.js · Go · SVG · Audio**
+
+## <img src="./assets/readme/terminal.svg" width="24" height="24" alt="" /> Run the portfolio
+
+Explore the black hole from your terminal:
+
+```sh
+npx austindelic
+```
+
+<details>
+<summary>Requirements and controls</summary>
+
+Requires **Node 22+** and a terminal of at least **60 × 18 characters**. Runs on macOS, Linux, and Windows; see the [platform requirements](https://github.com/austindelic/portfolio/tree/main/apps/tui/npm) for supported versions and architectures.
+
+Use **Tab / arrows** to navigate, **Enter** to open, and **?** for help. In Explore, move with **WASD**, **IJKL**, or mouse dragging. **Ctrl-C** quits; **q** also quits outside Explore.
+
+The GPU renderer runs locally and falls back to static artwork if graphics initialization fails. Portfolio content is embedded and works offline after installation; external links need a connection.
+
+</details>
+
 
 ---
 
-Previously worked on healthcare payments at Scrypt Ventures with Angular, .NET, and Azure, and owned client applications from requirements through deployment and support.
-
+[Austin Develops ↗](https://youtube.com/@austindevelops)
 
 <details>
-<summary>on repeat</summary>
+<summary>On repeat</summary>
 
 [![What I'm listening to on Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31z44v4osse42einhriqmf46qg5q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ffa133&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </details>
-
-[Austin Develops ↗](https://youtube.com/@austindevelops)
