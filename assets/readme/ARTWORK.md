@@ -18,7 +18,7 @@ sufficient to reproduce the portfolio strip without that other checkout.
 The composition preserves the captured glyphs and colors; it crops and scales the
 image and lifts the black floor to the README's charcoal background. It does not
 paint or synthesize new black-hole detail. Shader credits remain with the
-[shared renderer source](../../packages/black-hole/).
+[Blackhole source](https://github.com/austindelic/blackhole).
 
 The Still illustration represents connected environment layers. Tactify uses an
 abstract dot diagram and audio waveform. These are geometric illustrations,
@@ -66,7 +66,7 @@ still need visual cleanup. The previous word-gap transparent draft is superseded
 
 ## Rebuild
 
-Run from the repository root with Python and Pillow available:
+The profile repository contains display assets and provenance only. Rebuild scripts and fonts remain in [the portfolio repository](https://github.com/austindelic/portfolio/tree/main/assets/readme). Run from that repository root with Python and Pillow available:
 
 ```sh
 python3 assets/readme/render.py
